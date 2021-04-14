@@ -13,3 +13,10 @@ Installation:
 5. Buka http://localhost:8080 atau http://127.0.0.1:8080 pada browser.
 
 Screenshot:
+
+https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/add-data.png
+https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/edit-data.png
+https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-add.png
+https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-delete.png
+https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-edit.png
+https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage.png
