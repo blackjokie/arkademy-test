@@ -14,9 +14,9 @@ Installation:
 
 Screenshot:
 
-https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/add-data.png
-https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/edit-data.png
-https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-add.png
-https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-delete.png
-https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-edit.png
-https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage.png
+![Alt text](https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/add-data.png)
+![Alt text](https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/edit-data.png)
+![Alt text](https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-add.png)
+![Alt text](https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-delete.png)
+![Alt text](https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage-after-edit.png)
+![Alt text](https://raw.githubusercontent.com/blackjokie/arkademy-test/main/screenshot/homepage.png)
