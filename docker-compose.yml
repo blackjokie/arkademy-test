@@ -1,0 +1,39 @@
+version: "3.2"
+services:
+  php:
+    build: './docker/php/'
+    networks:
+      - backend
+    volumes:
+      - ./public_html:/var/www/html/
+  apache:
+    build: './docker/apache/'
+    depends_on:
+      - php
+      - mysql
+    networks:
+      - frontend
+      - backend
+    ports:
+      - "8080:80"
+    volumes:
+      - ./public_html:/var/www/html/
+  mysql:
+    image: mysql:5.6.40
+    networks:
+      - backend
+    environment:
+      - MYSQL_ROOT_PASSWORD=testing
+      - MYSQL_DATABASE=arkademy
+      
+  db-manager:
+    image: adminer:latest
+    container_name: test-adminer
+    restart: unless-stopped
+    ports:
+      - 8111:8080
+    networks:
+      - backend
+networks:
+  frontend:
+  backend:
